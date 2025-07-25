@@ -1,4 +1,4 @@
-Power Bi Supply Chain Dashboard
+**Power Bi Supply Chain Dashboard**
 
 This Power BI visualization is built using an Inventory Supply Chain dataset. The report focuses on key Supply Chain KPIs, including:
 
