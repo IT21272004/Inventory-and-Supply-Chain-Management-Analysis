@@ -12,3 +12,4 @@ To enhance data-driven decision-making, several DAX calculations have been imple
 
 The result is a professional and interactive dashboard designed to support operational analysis and performance tracking within the supply chain domain.
 
+
